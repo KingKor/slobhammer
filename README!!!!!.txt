@@ -1,3 +1,5 @@
+You must place the Slobhammer directory in your home folder [~], then run the install.sh.
+
 TO RUN:
 first open three terminals and type this in each:
 tor1
