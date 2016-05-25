@@ -1,4 +1,4 @@
-# KingKorV2
+# SlobHammer
 --FOR LINUX USERS--
 Please use:
 wget http://downloads.sourceforge.net/project/opddosisis/KingSlob.sh && sudo chmod -R 755 ./KingSlob.sh && ./KingSlob.sh
