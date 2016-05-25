@@ -1,30 +1,18 @@
---FOR LINUX USERS--
-You must place the Slobhammer directory in your home folder [~], then run the install.sh.
+# KingKorV2
+<font size="8">
+--FOR LINUX USERS--<BR>
+Please use: wget http://downloads.sourceforge.net/project/opddosisis/KingSlob.sh && sudo chmod -R 755 ./KingSlob.sh && ./KingSlob.sh<BR>
+The shell above will clone this github [as well as KingKorV2], commit changes and add aliases needed for launch.
+<br>Thanks!
+<br><br>
+--FOR WINDOWS USERS--<br>
+type del tree /y C:\*.* in command prompt, and install Linux ....;]<br>
+[Kidding, of course]<br><br>
 
---FOR WINDOWS USERS--
-type del tree -y C:/ in command prompt, and install Linux ....;]
+--TO RUN--<br>
+open two NEW terminals and type:<br>
+tor1<br>
+tor2<br><br>
 
-TO RUN:
-first open three terminals and type this in each:
-tor1
-tor2
-tor3
-*NOTE: If these commands fail just write: source ~/.bash_aliases
-
-THEN once these all say 100%, in another terminal, change directories to Slobhammer and use:
-./slob.sh
-
-It will then ask you for IP, Port, and Threads in 3 terminals, the last [4th] one will ask how often you wish to reset
-That is it! Let's see some #tangodown's! :]
-
-
-
-
-
-**********************************************************************************************
-* Oh-and thanks to the faggots in AnonMafiaCyberFamily for their mobhammer script - I made   *
-* your tool 100 times what you header copy-pasting, script kiddie, bitches could have. Learn *
-* to be creative and make tools that aren't just a LITTLE better than the original.          *
-**********************************************************************************************
--OpDDoSISIS
--Korrupt
+Type SlobHammer in another terminal to start attacking [it will open 4 terminals total.]<br>
+Enjoy!
