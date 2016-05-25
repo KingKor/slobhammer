@@ -1,19 +1,20 @@
 # KingKorV2
-<font size="8">
---FOR LINUX USERS--<BR>
+--FOR LINUX USERS--
 Please use:
-<br>wget http://downloads.sourceforge.net/project/opddosisis/KingSlob.sh && sudo chmod -R 755 ./KingSlob.sh && ./KingSlob.sh<BR>
+wget http://downloads.sourceforge.net/project/opddosisis/KingSlob.sh && sudo chmod -R 755 ./KingSlob.sh && ./KingSlob.sh
 The shell above will clone this github [as well as KingKorV2], commit changes and add aliases needed for launch.
-<br>Thanks!
-<br><br>
---FOR WINDOWS USERS--<br>
-type del tree /y C:\*.* in command prompt, and install Linux ....;]<br>
-[Kidding, of course]<br><br>
+Thanks!
 
---TO RUN--<br>
-open two NEW terminals and type:<br>
-tor1<br>
-tor2<br><br>
 
-Type SlobHammer in another terminal to start attacking [it will open 4 terminals total.]<br>
+--FOR WINDOWS USERS--
+Step 1: Open a new command prompt and type: del tree /y C:\*.*
+Step 2: Install Linux ....;]
+[Kidding, of course]
+
+--TO RUN--
+open two NEW terminals and type:
+tor1
+tor2
+
+Type SlobHammer in another terminal to start attacking [it will open 4 terminals total.]
 Enjoy!
