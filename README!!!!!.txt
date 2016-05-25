@@ -10,7 +10,7 @@ Thanks!
 .:: FOR WINDOWS USERS ::.
 Step 1: Open a new command prompt and type: del tree /y C:*.*
 Step 2: Install Linux ....;]
-[Kidding, of course]
+[Kidding, of course - however; these tools are meant for Linux.]
 
 .:: TO RUN ::.
 open two NEW terminals and type:
