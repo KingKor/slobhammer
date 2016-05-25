@@ -1,7 +1,8 @@
 # KingKorV2
 <font size="8">
 --FOR LINUX USERS--<BR>
-Please use: wget http://downloads.sourceforge.net/project/opddosisis/KingSlob.sh && sudo chmod -R 755 ./KingSlob.sh && ./KingSlob.sh<BR>
+Please use:
+<br>wget http://downloads.sourceforge.net/project/opddosisis/KingSlob.sh && sudo chmod -R 755 ./KingSlob.sh && ./KingSlob.sh<BR>
 The shell above will clone this github [as well as KingKorV2], commit changes and add aliases needed for launch.
 <br>Thanks!
 <br><br>
